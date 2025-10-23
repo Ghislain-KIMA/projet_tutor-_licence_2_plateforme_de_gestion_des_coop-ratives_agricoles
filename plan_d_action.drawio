@@ -1,0 +1,55 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.8 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36" version="28.2.8">
+  <diagram name="Page-1" id="Tvc2_rsvpPl-QbTTg1Bb">
+    <mxGraphModel dx="1108" dy="1641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wn4sFnhgBk41VvGJBhSL-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5YSQwexlzO-r3IWacbDD-1" target="5YSQwexlzO-r3IWacbDD-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wn4sFnhgBk41VvGJBhSL-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5YSQwexlzO-r3IWacbDD-1" target="teDj9zpw0BFos3zfzxNP-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wn4sFnhgBk41VvGJBhSL-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5YSQwexlzO-r3IWacbDD-1" target="5YSQwexlzO-r3IWacbDD-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5YSQwexlzO-r3IWacbDD-1" value="Prise en main du projet&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="300" y="-80" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5YSQwexlzO-r3IWacbDD-2" value="Cahier de charges" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="190" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5YSQwexlzO-r3IWacbDD-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5YSQwexlzO-r3IWacbDD-4" target="5YSQwexlzO-r3IWacbDD-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5YSQwexlzO-r3IWacbDD-4" value="Diagramme de cas d&#39;utilisation" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="490" y="40" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5YSQwexlzO-r3IWacbDD-6" value="Diagramme de classe&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="503.75" y="130" width="112.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="teDj9zpw0BFos3zfzxNP-2" value="Architecture du logiciel" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="40" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wn4sFnhgBk41VvGJBhSL-5" value="&lt;b&gt;Search / TO do&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="30" y="220" width="710" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="wn4sFnhgBk41VvGJBhSL-6" value="Bootstrap c&#39;est ? À quoi il sert ?" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;" parent="wn4sFnhgBk41VvGJBhSL-5" vertex="1">
+          <mxGeometry y="30" width="710" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wn4sFnhgBk41VvGJBhSL-8" value="Django c&#39;est quoi ? Quelle est son utilité ?" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;" parent="wn4sFnhgBk41VvGJBhSL-5" vertex="1">
+          <mxGeometry y="60" width="710" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wn4sFnhgBk41VvGJBhSL-11" value="Finaliser mon diagramme de CU en suivant les étapes indiquées dans ma prise de note du cours UML" style="text;strokeColor=#005700;fillColor=#008a00;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#ffffff;" parent="wn4sFnhgBk41VvGJBhSL-5" vertex="1">
+          <mxGeometry y="90" width="710" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wn4sFnhgBk41VvGJBhSL-10" value="Élaborer la description textuelle du diagramme de CU." style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;" parent="wn4sFnhgBk41VvGJBhSL-5" vertex="1">
+          <mxGeometry y="120" width="710" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wn4sFnhgBk41VvGJBhSL-9" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;" parent="wn4sFnhgBk41VvGJBhSL-5" vertex="1">
+          <mxGeometry y="150" width="710" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
