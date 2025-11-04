@@ -9,6 +9,7 @@ Une brève description du projet, ce qu’il fait et pourquoi il est utile.
 
 ## Structure du projet
 
+```
 .
 ├── app
 ├── config
@@ -47,6 +48,7 @@ Une brève description du projet, ce qu’il fait et pourquoi il est utile.
     └── bootstrap
         ├── css
         └── js
+```
 
 ## 🚀 Objectifs
 
