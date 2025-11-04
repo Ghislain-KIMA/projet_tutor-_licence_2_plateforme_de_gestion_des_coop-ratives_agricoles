@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.8 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36" version="28.2.8">
   <diagram name="Page-1" id="Tvc2_rsvpPl-QbTTg1Bb">
-    <mxGraphModel dx="1108" dy="1641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="872" dy="1701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,10 +34,10 @@
         <mxCell id="wn4sFnhgBk41VvGJBhSL-5" value="&lt;b&gt;Search / TO do&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="30" y="220" width="710" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="wn4sFnhgBk41VvGJBhSL-6" value="Bootstrap c&#39;est ? À quoi il sert ?" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;" parent="wn4sFnhgBk41VvGJBhSL-5" vertex="1">
+        <mxCell id="wn4sFnhgBk41VvGJBhSL-6" value="Bootstrap c&#39;est ? À quoi il sert ?" style="text;strokeColor=#005700;fillColor=#008a00;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#ffffff;" parent="wn4sFnhgBk41VvGJBhSL-5" vertex="1">
           <mxGeometry y="30" width="710" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wn4sFnhgBk41VvGJBhSL-8" value="Django c&#39;est quoi ? Quelle est son utilité ?" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;" parent="wn4sFnhgBk41VvGJBhSL-5" vertex="1">
+        <mxCell id="wn4sFnhgBk41VvGJBhSL-8" value="Django c&#39;est quoi ? Quelle est son utilité ?" style="text;strokeColor=#005700;fillColor=#008a00;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#ffffff;" parent="wn4sFnhgBk41VvGJBhSL-5" vertex="1">
           <mxGeometry y="60" width="710" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wn4sFnhgBk41VvGJBhSL-11" value="Finaliser mon diagramme de CU en suivant les étapes indiquées dans ma prise de note du cours UML" style="text;strokeColor=#005700;fillColor=#008a00;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#ffffff;" parent="wn4sFnhgBk41VvGJBhSL-5" vertex="1">
@@ -46,7 +46,7 @@
         <mxCell id="wn4sFnhgBk41VvGJBhSL-10" value="Élaborer la description textuelle du diagramme de CU." style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;" parent="wn4sFnhgBk41VvGJBhSL-5" vertex="1">
           <mxGeometry y="120" width="710" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wn4sFnhgBk41VvGJBhSL-9" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;" parent="wn4sFnhgBk41VvGJBhSL-5" vertex="1">
+        <mxCell id="wn4sFnhgBk41VvGJBhSL-9" value="Tutos architecures logiciels" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;" parent="wn4sFnhgBk41VvGJBhSL-5" vertex="1">
           <mxGeometry y="150" width="710" height="30" as="geometry" />
         </mxCell>
       </root>

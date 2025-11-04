@@ -1,9 +1,0 @@
-= Projet tutoré : Plateforme de gestion des coopératives agricoles
-
-== Membres
-. Ghislain KIMA
-. Aïssatou DICKO
-
-== Descriptions du projet
-
-== Dépendances du projet
