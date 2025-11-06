@@ -1,9 +1,15 @@
-
-# Exectables
+# Exe
 *.exe
 *.out
 
-# 
+# Files
+projet_tutore.pdf
+
+# Files end with
 *.bkp
 
+# Folders
 env/
+venv/
+.env/
+.venv/
