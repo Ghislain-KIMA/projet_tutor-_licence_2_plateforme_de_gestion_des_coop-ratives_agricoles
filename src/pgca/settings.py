@@ -76,10 +76,25 @@ WSGI_APPLICATION = 'pgca.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/5.2/ref/settings/#databases
 
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.postgresql',
+#         'NAME': 'pgca_dev_ghisma_2025',
+#         'USER': 'pgca_app_user_2025',
+#         'PASSWORD': '6425pgcaUneapp100%',
+#         'HOST': 'localhost',  # ou l’IP du serveur PostgreSQL
+#         'PORT': '5432',        # port par défaut de PostgreSQL
+#     }
+# }
+
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'pgca_dev_ghisma_2025',
+        'USER': 'pgca_app_user_2025',
+        'PASSWORD': '6425pgcaUneapp100',
+        'HOST': 'localhost',
+        'PORT': '5432',
     }
 }
 
