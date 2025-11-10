@@ -12,3 +12,22 @@ body
   background-position: center;
   background-attachment: fixed;
 }
+
+/* .connection-form
+{
+  width: 400px;
+  margin: auto;
+} */
+
+.connection-form
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.connection-form-element p
+{
+    width: 400px;
+}

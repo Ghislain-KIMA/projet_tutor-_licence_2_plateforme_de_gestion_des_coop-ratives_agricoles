@@ -8,10 +8,14 @@
     <link rel="stylesheet" href="{% static 'account/css/style.css' %}">
 </head>
 <body>
-    <form method="post">
+    <form method="post" class="connection-form">
         {% csrf_token %}
-        {{ form.as_p }}
-    <button type="submit">Se connecter</button>
+        <div class="connection-form-element">
+            {{ form.as_p }}
+        </div>
+        <div class="connection-form-element">
+            <button type="submit" class="connection-form-element">Se connecter</button>
+        </div>
     </form>
 </body>
 </html>
